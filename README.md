@@ -2,7 +2,7 @@
 Dynamic simulation fermentation process with mixed carbon sources under different pH
 
 # Introduction
-In this study, the method used dMORP to simulate the fermentation process of mixed carbon sources under different pH conditions. The introduction of dMORP reference to: https://github.com/ChenYuGroup/MORP.
+In this study, the method used dMORP to simulate the hierarchical utilization of mixed carbon sources under different pH conditions. The introduction of dMORP reference to: https://github.com/ChenYuGroup/MORP.
 
 # Required software
 Matlab (The MORP is implemented in the matlab)
